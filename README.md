@@ -1,16 +1,18 @@
-### Hi there 👋
+## Danilo Mendoza
 
-<!--
-**odmendoza/odmendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Automation Enthusiast**
 
-Here are some ideas to get you started:
+Crafting exceptional web applications and streamlining processes through automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Key Skills**
+
+  * **Front-end:** React, Next.js, Angular ⚛️
+  * **Back-end:** NestJS, Django, Flask
+  * **Databases:** PostgreSQL, MongoDB
+  * **DevOps & Automation:** GitHub Actions, OpenAI, AWS, GCP ☁️
+  * **Serverless:** AWS Lambda, Google Cloud Run, Neon
+
+### **Connect with me**
+
+  * **Website:** [odmendoza.io](http://odmendoza.io)
+  * **LinkedIn:** [odmendozac](https://www.linkedin.com/in/odmendozac/)
