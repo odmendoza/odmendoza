@@ -9,7 +9,7 @@ Crafting exceptional web applications and streamlining processes through automat
   * **Front-end:** React, Next.js, Angular ⚛️
   * **Back-end:** NestJS, Django, Flask 🛠️
   * **Databases:** PostgreSQL, MongoDB 🗄️
-  * **DevOps & Automation:** GitHub Actions, OpenAI, AWS, GCP ☁️
+  * **DevOps & Automation:** GitHub Actions, OpenAI, AWS, GCP, Vercel ☁️
   * **Serverless:** AWS Lambda, Google Cloud Run, Neon 🌐
 
 ### **Connect with me**
