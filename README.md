@@ -6,13 +6,13 @@ Crafting exceptional web applications and streamlining processes through automat
 
 ### **Key Skills**
 
-  * **Front-end:** React, Next.js, Angular ⚛️
-  * **Back-end:** NestJS, Django, Flask 🛠️
+  * **Front-end:** React, NextJS, Angular, React Native ⚛️
+  * **Back-end:** NestJS, Flask 🛠️
   * **Databases:** PostgreSQL, MongoDB 🗄️
   * **DevOps & Automation:** GitHub Actions, OpenAI, AWS, GCP, Vercel ☁️
   * **Serverless:** AWS Lambda, Google Cloud Run, Neon 🌐
 
 ### **Connect with me**
 
-  * **Website:** [odmendoza.io](http://odmendoza.io) 🌍
+  * **Website:** [odmendoza.io](https://odmendoza.io) 🌍
   * **LinkedIn:** [odmendozac](https://www.linkedin.com/in/odmendozac/) 💼
